@@ -9,7 +9,7 @@ shinyUI(pageWithSidebar(
 
     ),
     mainPanel(
-        h3("Introduction:"),
+        h3("Instructions:"),
         p("Select the car's transmission, number of cylinders, 
           and enter gross horsepower in the left panel, then click \"submit\" button, 
           you'll get the prediction of the car's miles/(us) gallon in the right panel."),
